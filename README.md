@@ -1,2 +1,2 @@
 # Decode
-CS50 Havard
+CS50 Harvard
